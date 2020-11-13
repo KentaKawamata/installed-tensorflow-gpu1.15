@@ -69,7 +69,7 @@ sip==4.19.8
 six==1.14.0
 tensorboard==1.15.0
 tensorflow-estimator==1.15.1
-tensorflow-gpu==1.15.0rc3
+tensorflow-gpu==2.4.0rc1
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4

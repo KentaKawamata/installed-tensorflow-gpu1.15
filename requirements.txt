@@ -85,5 +85,5 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zipp==3.1.0
-opencv-python==3.4.6.27
+opencv-python==4.2.0.32
 pycocotools-fix==2.0.0.1
